@@ -1,6 +1,6 @@
 # Dragao-de-nome-impronunciavel
 
-### Esse será um projeto feito no Unity que constitui em duas cenas, onde o jogo será baseado na música "Dragão de nome impronunciável" do cantor "Kamaitachi" onde o protagonista terá que salvar o mundo derrotando um dragão.
+### Esse será um projeto feito no Unity que constitui em duas cenas, onde o jogo será baseado na música "Dragão de nome impronunciável" e "Chamas da Vida" do cantor "Kamaitachi" onde o protagonista terá que salvar o mundo derrotando um dragão.
 
 ## Diagrama de Caso de Uso
 No diagrama de caso de uso, personagem se liga com inicio fim do jogo e controles, pois ele determina a condição do jogo e as posições do personagem, e os controles se ligam diretamente nas cenas por conta das suas interações, já o jogo se liga com as cenas por ser ele quem estará lá e os personagens por serem parte do jogo também e trazerem mudanças as cenas.
