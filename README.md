@@ -1,4 +1,4 @@
-# Dragao-de-nome-impronunciavel
+# Chamas do Dragão
 
 ### Esse será um projeto feito no Unity que constitui em duas cenas, onde o jogo será baseado na música "Dragão de nome impronunciável" e "Chamas da Vida" do cantor "Kamaitachi" onde o protagonista terá que salvar o mundo derrotando um dragão.
 
