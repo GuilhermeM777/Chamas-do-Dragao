@@ -14,6 +14,6 @@ No diagrama de classes, fiz as classes de personagens, secundários, dragão e c
 
 
 ## Arquivo do Jogo
-https://drive.google.com/drive/folders/15rCsVSebMhE9Ztni7ERhyg9t3F9EFAwb?usp=drive_link
+https://drive.google.com/drive/folders/15rCsVSebMhE9Ztni7ERhyg9t3F9EFAwb?usp=sharing
 
 POr complicações no gitbash eu não consegui passar o jogo para o github, então dei upload dele no Google Drive, link acima.
