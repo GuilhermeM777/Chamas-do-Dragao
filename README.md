@@ -11,3 +11,9 @@ No diagrama de caso de uso, personagem se liga com inicio fim do jogo e controle
 No diagrama de classes, fiz as classes de personagens, secundários, dragão e controle, sendo jogo dependente dos controles, personagem interage com secundários e luta com dragão.
 
 ![image](https://github.com/GuilhermeM777/Dragao-de-nome-impronunciavel/assets/127865701/575eea7e-a929-4103-ba1b-251b7f14d6a5)
+
+
+## Arquivo do Jogo
+https://drive.google.com/drive/folders/15rCsVSebMhE9Ztni7ERhyg9t3F9EFAwb?usp=drive_link
+
+POr complicações no gitbash eu não consegui passar o jogo para o github, então dei upload dele no Google Drive, link acima.
